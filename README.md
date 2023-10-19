@@ -1,15 +1,18 @@
-# Dairy-Management [![Build Status](https://travis-ci.com/harshshinde07/Dairy-Management.svg?branch=master)](https://travis-ci.com/harshshinde07/Dairy-Management)
+# Dairy-Management System [![Build Status](https://travis-ci.com/harshshinde07/Dairy-Management.svg?branch=master)](https://travis-ci.com/harshshinde07/Dairy-Management)
 
-A Dairy Management Application built specifically according to the client requirements
+A Dairy Management Application Built Specifically According to The Client requirements And Provide Best Services on The platfrom
 
 ## Features
 
-- Milk Collection 
+- Milk Collection
+- Milk Catagories
 - Milk Sale
-- Cattle Feed Entry
+- Cattle Feeds Entry
+- Milk purifiction unit
 - New Member Addition
+- Employees Database Managemnt
 - Import Database from CSV
 - Export Database to CSV
 - SNF Options
-- Colletion, Sale, Cattle Feed, Member Management
+- Colletion, Catogries,Sale,unit, Cattle Feed, Member Management
 
