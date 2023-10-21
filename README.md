@@ -14,5 +14,6 @@ A Dairy Management Application Built Specifically According to The Client requir
 - Import Database from CSV
 - Export Database to CSV
 - SNF Options
+- The Dairy System Managment is There are  More Brachanes In INDIA  Top Five metro Cities in Bharat Mumbai ,Gujrat,Kolkata,Bangluru,Chennai,pune.
 - Colletion, Catogries,Sale,unit, Cattle Feed, Member Management
 
